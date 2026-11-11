@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Alice",
+    "age": 30,
+    "salary": 95000.0,
+    "join_date": "2015-03-01"
+  },
+  {
+    "name": "Diana",
+    "age": 40,
+    "salary": 110000.0,
+    "join_date": "2021-11-03"
+  }
+]
